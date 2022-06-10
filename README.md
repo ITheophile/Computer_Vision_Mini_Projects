@@ -3,11 +3,11 @@ This repository is a collection of 5 mini projects on computer vision.  All the 
 
 **Requirements**  
 For running the code, the following packages are needed:  
-python == 3.8.13       (all projects)
-open cv == 4.5.5       (all projects)
-matplotlib == 3.5.1    (all projects)
-torchvision == 1.11.0  (handwritten_digits) 
-argparse == 1.1         (handwritten_digits)
+python == 3.8.13       (all projects)  
+open cv == 4.5.5       (all projects)  
+matplotlib == 3.5.1    (all projects)  
+torchvision == 1.11.0  (handwritten_digits)   
+argparse == 1.1         (handwritten_digits)  
 
 
 ## Image annotation
