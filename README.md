@@ -22,7 +22,16 @@ The aim of this miniproject is to create a function to read and print out the co
 ## Green screen
 This project goes through how to remove a green backround from an image and replace it with another background of your choice.  
 For illustration of how it works see pictures below:  
+**Green screen image**  
 ![](images/green_background.png)
+
+
+**Background image**  
+![](images/normal_background.png)  
+
+
+**Changed green screen to background image**
+![](images/changed_background.png)
 
 
 ## Handwritten digits
