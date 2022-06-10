@@ -28,9 +28,10 @@ This project seeks to recognize handwritten digits. The objective is to load an 
 
 An example of how to run the script from the command line is:  
 * `cd <handwritten_digits>`
-* `python recognize_digits.py <'..\images\numbers.jpg'>
+* `python recognize_digits.py <'..\images\numbers.jpg'>`
 
-*NB*: The script expect 6 digits. Of course, this will be changed to accept any number of sequential digits
+*NB*: Arguments in `<...>` depends on your file system structure.  
+Also, the script expect 6 digits. Of course, this will be changed to accept any number of sequential digits
 
 
 
