@@ -31,7 +31,7 @@ An example of how to run the script from the command line is:
 * `python recognize_digits.py <'..\images\numbers.jpg'>`
 
 *NB*: Arguments in `<...>` depends on your file system structure.  
-Also, the script expect 6 digits. Of course, this will be changed to accept any number of sequential digits
+Also, the script expects 6 digits. Of course, this will be changed to accept any number of sequential digits
 
 
 
