@@ -3,10 +3,11 @@ This repository is a collection of 5 mini projects on computer vision.  All the 
 
 **Requirements**
 For running the code, the following packages are needed:  
-python == 3.8.13  
-open cv == 4.5.5  
-matplotlib == 3.5.1  
-torchvision == 1.11.0
+python == 3.8.13       (all projects)
+open cv == 4.5.5       (all projects)
+matplotlib == 3.5.1    (all projects)
+torchvision == 1.11.0  (handwritten_digits) 
+argparse == 1.1         (handwritten_digits)
 
 
 ## Image annotation
@@ -32,10 +33,3 @@ An example of how to run the script from the command line is:
 
 *NB*: Arguments in `<...>` depends on your file system structure.  
 Also, the script expects 6 digits. Of course, this will be changed to accept any number of sequential digits
-
-
-
-
-
-
- 
