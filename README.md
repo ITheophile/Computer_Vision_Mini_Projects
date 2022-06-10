@@ -24,7 +24,12 @@ This project goes through how to remove a green backround from an image and repl
 
 ## Handwritten digits
 This project seeks to recognize handwritten digits. The objective is to load an image containing handwritten digits, recognize those digits and print out a string version of those.  
-*NB*: All steps needed to complete the tasks are defined, however the image preprocessing step needs more refinement so that the digits comply with those in the MNIST dataset on which the CNN model has been trained on.  
+*NB*: All steps needed to complete the tasks are defined, however the image preprocessing step needs more refinement so that the digits comply with those in the MNIST dataset on which the CNN model has been trained on. 
+
+Steps to run the script in the command line are:  
+* `cd <handwritten_digits folder>`
+* `python handwritten_recognition.py <path_to_image_with_handwritten_digits>`
+
 
 
 
