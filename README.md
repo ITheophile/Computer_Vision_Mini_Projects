@@ -1,7 +1,7 @@
 # Computer_Vision_Mini_Projects  
 This repository is a collection of 5 mini projects on computer vision.  All the images used in the projects can be found within the folder `images`.  
 
-**Requirements**
+**Requirements**  
 For running the code, the following packages are needed:  
 python == 3.8.13       (all projects)
 open cv == 4.5.5       (all projects)
