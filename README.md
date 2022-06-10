@@ -6,6 +6,7 @@ For running the code, the following packages are needed:
 python == 3.8.13  
 open cv == 4.5.5  
 matplotlib == 3.5.1  
+torchvision == 1.11.0
 
 
 ## Image annotation
